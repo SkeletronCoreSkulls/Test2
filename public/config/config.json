@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4B485921FAAE87FF0EaAA96203823dE9A59dc887",
+  "SCAN_LINK": "https://xdcscan.io/address/0x4B485921FAAE87FF0EaAA96203823dE9A59dc887",
+  "NETWORK": {
+    "NAME": "XDC Mainnet",
+    "SYMBOL": "XDC",
+    "ID": 50
+  },
+  "NFT_NAME": "XDC V2 Punks",
+  "SYMBOL": "XP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Primeport soon",
+  "MARKETPLACE_LINK": "https://primeport.xyz/collection/xdc/0x4b485921faae87ff0eaaa96203823de9a59dc887",
+  "SHOW_BACKGROUND": true
+}
